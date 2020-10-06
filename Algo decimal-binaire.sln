@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Algo decimal-binaire", "Algo decimal-binaire.pyproj", "{284C25C9-D811-41FB-89BA-5BB8780DC004}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{284C25C9-D811-41FB-89BA-5BB8780DC004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{284C25C9-D811-41FB-89BA-5BB8780DC004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14A4F06F-318F-4471-B439-F66D256A5213}
+	EndGlobalSection
+EndGlobal
